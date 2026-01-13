@@ -40,7 +40,7 @@ Healthcare-focused academic project designed for medical insurance use cases.
 
 ### **VitaDwell**
 A platform to support students moving to new cities.
-- Frontend development for listing rental rooms and tiffin services  
+- Frontend development for listing rental rooms and tiffin service
 - Focused on usability and simple navigation  
 - Helped locals connect with students for housing and food services  
 
