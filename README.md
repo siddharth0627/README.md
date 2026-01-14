@@ -44,6 +44,7 @@ A platform to support students moving to new cities.
 - Focused on usability and simple navigation  
 - Helped locals connect with students for housing and food services  
 
+### **Ai Healthcare**
 ---
 
 ## 📚 Currently Learning
