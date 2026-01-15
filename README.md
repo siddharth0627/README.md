@@ -45,6 +45,7 @@ A platform to support students moving to new cities.
 - Helped locals connect with students for housing and food services  
 
 ### **Ai Healthcare**
+this project is based on health care
 ---
 
 ## 📚 Currently Learning
